@@ -4,8 +4,6 @@ I am a software engineer with 15 years of experience offering expertise in build
 
 In my spare time I contribute to NetBSD, OpenBSD and related projects.
 
-The engagement with my current employer concludes shortly and I am actively looking for new opportunities. Contact me via email at sunil+github@nimmagadda.net or via IRC handle `skn` on [libera.chat](https://libera.chat/).
-
 <!--
 **snimmagadda/snimmagadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
