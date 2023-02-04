@@ -1,6 +1,6 @@
 ### Hi,
 
-I am a software engineer with 15 years of experience offering expertise in building secure, performant and scalable networking daemons, backend systems and general systems programming.
+I am a software engineer with interests and expertise in building secure, performant and scalable networking daemons, backend systems and general systems programming.
 
 In my spare time I contribute to NetBSD, OpenBSD and related projects.
 
